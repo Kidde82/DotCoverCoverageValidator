@@ -4,8 +4,6 @@ Package for check test coverage threshold!
 ## Background
 When using [dotCover](https://www.jetbrains.com/dotcover/) a report file is generated. That report will tell what percentage of your code that is covered by tests. This tool can be used to validate if your tests has a code coverage over the threshold you set.
 
-https://www.jetbrains.com/dotcover/
-
 ## Prerequisites
 You need to have a generated report of type json.
 
